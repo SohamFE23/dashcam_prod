@@ -1,3 +1,6 @@
 yolo_finetune_utils/
 input_data/
 .ipnb_checkpoints/
+trial.mp4
+videoplayback
+adas_final_run/
