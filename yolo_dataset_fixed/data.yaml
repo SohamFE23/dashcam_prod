@@ -1,0 +1,12 @@
+path: C:\Users\soham\finalproject\new_pipeline\yolo_dataset_fixed
+train: images/train
+val: images/val
+test: images/test
+nc: 6
+names:
+  0: Bus
+  1: Car
+  2: full dashed white
+  3: Pedestrian
+  4: Truck
+  5: yellow lane boundary
