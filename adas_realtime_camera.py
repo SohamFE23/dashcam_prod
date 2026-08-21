@@ -30,8 +30,8 @@ class_colors = {
 }
 
 class_names = {
-    0: "Car",
-    1: "Bus", 
+    0: "Bus",
+    1: "Car", 
     2: "Dashed Lane",
     3: "Pedestrian",
     4: "Truck",
@@ -136,7 +136,7 @@ print(f"✅ Polygon center X: {poly_center_x}")
 # ============================================================
 # 8. RADAR DIMENSIONS
 # ============================================================
-RADAR_W, RADAR_H = 150, 200
+RADAR_W, RADAR_H = 600, 900
 SCALE_X_RADAR = RADAR_W / w
 SCALE_Y_RADAR = RADAR_H / h
 
